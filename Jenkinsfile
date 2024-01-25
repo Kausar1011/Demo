@@ -10,6 +10,7 @@ pipeline{
 
                 docker {
                     image 'maven'
+                    arg "u root"
                 }
             }
             steps{
