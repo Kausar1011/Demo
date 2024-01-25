@@ -28,7 +28,7 @@ pipeline{
 
             steps{
 
-                scrip{
+                script{
                     
                     waitForQualityGate abortPipeline: false, credentialsId: 'sonar-token'
                 }
