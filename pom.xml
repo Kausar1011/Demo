@@ -41,7 +41,7 @@
                         <goal>repackage</goal>
                     </goals>
                     <configuration>
-                        <finalName><my-application></finalName>
+                        <finalName><Uber></finalName>
                     </configuration>
                 </execution>
             </executions>
