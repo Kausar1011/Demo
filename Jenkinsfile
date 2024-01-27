@@ -7,8 +7,8 @@ pipeline{
         stage('sonar quality check'){
 
             agent{
-                
-                Docker{
+
+                docker{
 
                     image 'maven'
                     args '-u root'
