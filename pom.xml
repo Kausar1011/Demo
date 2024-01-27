@@ -41,7 +41,7 @@
                         <goal>repackage</goal>
                     </goals>
                     <configuration>
-                        <finalName><my-application></my-application></finalName>
+                        <finalName><my-application></finalName>
                     </configuration>
                 </execution>
             </executions>
