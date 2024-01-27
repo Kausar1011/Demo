@@ -41,7 +41,7 @@
                         <goal>repackage</goal>
                     </goals>
                     <configuration>
-                        <finalName><devops-integration></finalName>
+                        <finalName></finalName>
                     </configuration>
                 </execution>
             </executions>
